@@ -39,7 +39,7 @@ pip install mcrcon pretty_midi
 
 ## 配置参数说明
 
-- `start_x`, `start_y`, `start_z`: 音乐系统的起始坐标
+- `start_x`, `start_y`, `start_z`: 音乐系统的起始坐标（沿x增长！）
 - `rcon_ip`, `rcon_port`, `rcon_password`: Minecraft 服务器 RCON 连接信息
 - `midi_file_path`: MIDI 文件的路径
 - `player_name`: 用于加载区块的玩家名称
